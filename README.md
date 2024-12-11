@@ -1,7 +1,3 @@
-Here's a revised README focusing on the main aim of creating a preview by processing the latest modified images and storing them in another S3 bucket:
-
----
-
 # README: Lambda Function for Image Preview Creation and Upload
 
 ## Overview
